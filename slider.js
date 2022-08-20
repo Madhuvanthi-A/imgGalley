@@ -1,6 +1,6 @@
 function myFunction(){
 	console.log("Page loaded");
-	var dir = "../imgtest";
+	var dir = "assets/img";
 	var fileextension = ".jpg";
 	let imageArray = [];
 	$.ajax({
